@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/haoRchen/haoRchen/main/profile-summary-card-output/darcula/2-most-commit-language.svg)
+```
+
+    
