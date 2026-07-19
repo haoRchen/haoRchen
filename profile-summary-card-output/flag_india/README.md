@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/haoRchen/haoRchen/main/profile-summary-card-output/flag_india/2-most-commit-language.svg)
-```
-
-    

@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/haoRchen/haoRchen/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)
-```
-
-    

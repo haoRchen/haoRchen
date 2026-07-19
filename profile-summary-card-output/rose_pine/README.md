@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/haoRchen/haoRchen/main/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
-```
-
-    
